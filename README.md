@@ -8,9 +8,9 @@ The main goal of this report is to simulate and analyze the spread of fire in a 
 
 The report will address two main tasks:
 
-Task 1: Implementing a basic forest fire model and exploring how parameters like α (fire spread probability) and β (burnt-out probability) affect the fire’s spread.
+Task 1: Implementing a basic forest fire model and exploring how parameters like α (fire spread probability) and β (burnt-out probability) affect the fire’s spread.`(r:'forest_fire1_upgrate')`
 
-Task 2: Enhancing the model by incorporating environmental factors such as wind direction, wind strength, and flying embers, and analyzing their effects on fire dynamics.
+Task 2: Enhancing the model by incorporating environmental factors such as wind direction, wind strength, and flying embers, and analyzing their effects on fire dynamics.`(r:'forest_fire with environment')`
 
 
 ## Features
